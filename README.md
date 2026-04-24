@@ -14,6 +14,7 @@
 |---|---|---|
 | [Craft](https://www.craft.do/) | Take notes easily while ask AI to generate new ideas. | Easy note taking app with great flexibility on arranging your notes while getting feedback and help from AI to stay productive.
 | [Notion](https://www.notion.so/) | Super popular note taking apps | Take notes on the go while getting feedback and help from AI to stay productive with hundreds of template to get started.
+| [MindMap AI](https://mindmapai.app/ai-mindmap-maker) | Visual mind mapping with AI | Organize ideas, structure research, and turn content into visual mind maps for better productivity and planning.
 
 
 ## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
